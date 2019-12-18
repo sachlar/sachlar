@@ -4,3 +4,11 @@
     outline: none;
     box-shadow: none;
   }
+
+header {
+    margin: 0;
+}
+
+.logo {
+    background: url("../images/rosie.jpg");
+}
