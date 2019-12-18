@@ -9,6 +9,11 @@
     box-shadow: none;
   }
 
+.sr-nav-text {
+    font-family: "Exo", sans-serif;
+    font-weight: 200;
+}
+
 /* colours section */
 .bg-color-name-title {
     background-color: #676767;
@@ -40,5 +45,14 @@ header {
     font-weight: 100;
     font-size: 46px;
     margin-top: 50px;
+    color: #ffffff;
+}
+
+.title {
+    font-family: "Roboto", sans-serif;
+    font-weight: 200;
+    font-size: 28px;
+    margin-top: 20px;
+    margin-bottom: 90px;
     color: #ffffff;
 }
