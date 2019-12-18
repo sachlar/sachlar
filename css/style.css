@@ -56,3 +56,23 @@ header {
     margin-bottom: 90px;
     color: #ffffff;
 }
+
+/* footer section */
+footer {
+    background-color: #525252;
+    color: #fafafa;
+    min-height: 120px;
+}
+.sr-uppercase {
+    text-transform: uppercase;
+}
+
+.sr-general-submenu {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    color: #fafafa;
+}
+
+.inline-block {
+    
+}
